@@ -1,0 +1,27 @@
+END
+Waiting for program to exit...
+Checking output file:
+Final balance of all 1000 accounts is 995860210, expect 995860210
+The 300 transactions took 3384.55s total, or an average of 11.2818s each
+The 1000 balance checks took 49225.45s total, or an average of 49.2255s each
+
+END
+Waiting for program to exit...
+Checking output file:
+Final balance of all 1000 accounts is 995860210, expect 995860210
+The 300 transactions took 3382.58s total, or an average of 11.2753s each
+The 1000 balance checks took 49216.95s total, or an average of 49.2170s each
+
+END
+Waiting for program to exit...
+Checking output file:
+Final balance of all 1000 accounts is 995860210, expect 995860210
+The 300 transactions took 3383.20s total, or an average of 11.2773s each
+The 1000 balance checks took 49217.27s total, or an average of 49.2173s each
+
+END
+Waiting for program to exit...
+Checking output file:
+ERR: Final balance of all 1000 accounts is 933743360, expect 995860210
+The 400 transactions took 86423.60s total, or an average of 216.0590s each
+The 1000 balance checks took 363426.24s total, or an average of 363.4262s each
